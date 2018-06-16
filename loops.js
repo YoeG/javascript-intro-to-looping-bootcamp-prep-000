@@ -42,7 +42,7 @@ function whileLoop (n)
     console.log(n--)
     
   }
-  
+  return 'done';
 }
 
 whileLoop(10)
