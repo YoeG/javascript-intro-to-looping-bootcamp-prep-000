@@ -6,4 +6,4 @@ function wrapGift(gift) {
 
 
 
-console.log('Hello ${gifts} ')
+console.log(`Hello ${gifts}`)
