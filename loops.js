@@ -9,7 +9,7 @@ function forLoop (array)
     
     {
       
-      array.push(` I am 1 strange loop`)
+      array.push(` I am 1 strange loop`);
       
     }
     
