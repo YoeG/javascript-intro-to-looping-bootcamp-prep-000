@@ -35,7 +35,7 @@ function whileLoop (n)
 
 {
   
-  While (n >= 0)
+  while (n >= 0)
   
   {
     
